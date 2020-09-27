@@ -1,6 +1,25 @@
-# Godot-Project-Template
+# 02 Space Shooter
+Project for MSCH-C220, 26 September 2020
 
-This is an empty Godot project that can be used as a starting place for Godot repositories. After creating and cloning the repository, download this as a zip file. Unzip it and copy the files into the repository folder. You should then be able to import the project.godot file (in the repository folder) as a project in Godot. Make sure you change the project name in the Project Settings.
+A Space Shooter Game 
 
 ## Implementation
-Created in Godot 3.2.2
+Built using Godot 3.2.2
+
+The font, Bebas Neue Regular (Ryoichi Tsunekawa) was downloaded from [https://fontlibrary.org/en/font/bebasneueregular](https://fontlibrary.org/en/font/bebasneueregular)
+
+Background from: https://pixabay.com/illustrations/background-space-planet-explosion-3572859/
+
+The explosion sprite sheet was downloaded from [assetsdownload.com](https://assetsdownload.com/cartoon-explosion-2d-game-sprite-free-download/)
+
+The other assets were downloaded from [kenney.nl](https://kenney.nl/assets)
+
+
+## References
+None
+
+## Future Development
+None
+
+## Created by 
+Bowen Murphy
